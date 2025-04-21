@@ -12,3 +12,5 @@ conflict-branch
 
 Experiment-4
 Experiment-7
+Conflicting details
+feature-rebase
