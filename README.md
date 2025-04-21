@@ -11,3 +11,4 @@ This branch demonstrates conflict resolution.(Exp-3)
 conflict-branch
 
 Experiment-4
+Conflicting details
